@@ -1,0 +1,12 @@
+service/IProductService.java
+ service.IProductService
+model/Product.java
+ model.Product
+config/AppConfiguration.java
+ config.AppConfiguration
+controller/ProductController.java
+ controller.ProductController
+service/ProductService.java
+ service.ProductService
+config/AppInitializer.java
+ config.AppInitializer
